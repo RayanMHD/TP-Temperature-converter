@@ -12,4 +12,4 @@ elif choice == "2":
     celsius = (fahrenheit-32)*5/9
     print(f"{fahrenheit}°F is equal to {celsius:.2f}°C")
 else:
-    print("Invalid choice. Please select 1 or 2.")
+    print("Invalid choice. Select just 1 or 2.")
